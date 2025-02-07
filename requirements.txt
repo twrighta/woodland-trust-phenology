@@ -5,7 +5,7 @@ dash
 dash-bootstrap-components
 dash-mantine-components
 flask-caching
-plotly
+plotly_express
 scikit-learn
 hdbscan
 gunicorn
