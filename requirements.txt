@@ -1,0 +1,11 @@
+pandas
+dash
+plotly_express
+dash_bootstrap_components
+numpy
+gunicorn
+dash_mantine_components
+plotly
+sklearn
+flask_caching
+hdbscan
